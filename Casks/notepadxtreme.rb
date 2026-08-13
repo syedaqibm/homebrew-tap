@@ -8,7 +8,7 @@ cask "notepadxtreme" do
   desc "Text editor that keeps unsaved tabs, local version history and a drawing canvas"
   homepage "https://notepadx.app/"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "NotepadXtreme.app"
 
