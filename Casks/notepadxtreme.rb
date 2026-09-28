@@ -1,6 +1,6 @@
 cask "notepadxtreme" do
-  version "0.2.26"
-  sha256 "e146846587d724b670ed30d8d2c1665c1cc09e6c636ba7822c5e27c5946e5138"
+  version "0.2.27"
+  sha256 "d6ae6f93a22ce4d3cc7679b6a72febfed5c639746fc5e906107219578505dd23"
 
   url "https://github.com/syedaqibm/DownloadNotepadX/releases/download/v#{version}/NotepadXtreme_#{version}_universal.dmg"
   name "NotepadXtreme"
